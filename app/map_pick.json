@@ -1,0 +1,271 @@
+[
+  {
+    "type": "card",
+    "size": "lg",
+    "theme": "warning",
+    "modules": [
+      {
+        "type": "header",
+        "text": {
+          "type": "plain-text",
+          "content": "请选择要为帝皇效忠的地点"
+        }
+      },
+
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "mode": "right",
+        "accessory": {
+          "type": "button",
+          "theme": "primary",
+          "value": "Mercantile",
+          "click": "return-val",
+          "text": {
+            "type": "plain-text",
+            "content": "Go"
+          }
+        },
+        "text": {
+          "type": "kmarkdown",
+          "content": "** 贸易区 **"
+        }
+      },
+      {
+        "type": "section",
+        "mode": "right",
+        "accessory": {
+          "type": "button",
+          "theme": "primary",
+          "value": "Consignment Yard",
+          "click": "return-val",
+          "text": {
+            "type": "plain-text",
+            "content": "Go"
+          }
+        },
+        "text": {
+          "type": "kmarkdown",
+          "content": "** 货运站 **"
+        }
+      },
+      {
+        "type": "section",
+        "mode": "right",
+        "accessory": {
+          "type": "button",
+          "theme": "primary",
+          "value": "Warren 6-19",
+          "click": "return-val",
+          "text": {
+            "type": "plain-text",
+            "content": "Go"
+          }
+        },
+        "text": {
+          "type": "kmarkdown",
+          "content": "** 窄道 6-19** "
+        }
+      },
+      {
+        "type": "section",
+        "mode": "right",
+        "accessory": {
+          "type": "button",
+          "theme": "primary",
+          "value": "Chasm Station",
+          "click": "return-val",
+          "text": {
+            "type": "plain-text",
+            "content": "Go"
+          }
+        },
+        "text": {
+          "type": "kmarkdown",
+          "content": "** 隘口站 **"
+        }
+      },
+      {
+        "type": "section",
+        "mode": "right",
+        "accessory": {
+          "type": "button",
+          "theme": "primary",
+          "value": "Chasm Logistratum",
+          "click": "return-val",
+          "text": {
+            "type": "plain-text",
+            "content": "Go"
+          }
+        },
+        "text": {
+          "type": "kmarkdown",
+          "content": "** 隘口后勤处 **"
+        }
+      },
+      {
+        "type": "section",
+        "mode": "right",
+        "accessory": {
+          "type": "button",
+          "theme": "primary",
+          "value": "Archivum Sycorax",
+          "click": "return-val",
+          "text": {
+            "type": "plain-text",
+            "content": "Go"
+          }
+        },
+        "text": {
+          "type": "kmarkdown",
+          "content": "** 档案馆 **"
+        }
+      },
+      {
+        "type": "section",
+        "mode": "right",
+        "accessory": {
+          "type": "button",
+          "theme": "primary",
+          "value": "Enclavum Baross",
+          "click": "return-val",
+          "text": {
+            "type": "plain-text",
+            "content": "Go"
+          }
+        },
+        "text": {
+          "type": "kmarkdown",
+          "content": "** 巴洛斯飞地 **"
+        }
+      },
+            {
+        "type": "section",
+        "mode": "right",
+        "accessory": {
+          "type": "button",
+          "theme": "primary",
+          "value": "Magistrati Oubliette",
+          "click": "return-val",
+          "text": {
+            "type": "plain-text",
+            "content": "Go"
+          }
+        },
+        "text": {
+          "type": "kmarkdown",
+          "content": "** 法庭密牢 **"
+        }
+      },      {
+        "type": "section",
+        "mode": "right",
+        "accessory": {
+          "type": "button",
+          "theme": "primary",
+          "value": "Refinery Delta-17",
+          "click": "return-val",
+          "text": {
+            "type": "plain-text",
+            "content": "Go"
+          }
+        },
+        "text": {
+          "type": "kmarkdown",
+          "content": "** D-17 精炼厂 **"
+        }
+      },
+            {
+        "type": "section",
+        "mode": "right",
+        "accessory": {
+          "type": "button",
+          "theme": "primary",
+          "value": "Comms-Plex 154/2f",
+          "click": "return-val",
+          "text": {
+            "type": "plain-text",
+            "content": "Go"
+          }
+        },
+        "text": {
+          "type": "kmarkdown",
+          "content": "** 154/2f 通讯站 **"
+        }
+      },
+            {
+        "type": "section",
+        "mode": "right",
+        "accessory": {
+          "type": "button",
+          "theme": "primary",
+          "value": "Excise Vault Spireside-13",
+          "click": "return-val",
+          "text": {
+            "type": "plain-text",
+            "content": "Go"
+          }
+        },
+        "text": {
+          "type": "kmarkdown",
+          "content": "** 尖塔区-13 赃物库 **"
+        }
+      },
+            {
+        "type": "section",
+        "mode": "right",
+        "accessory": {
+          "type": "button",
+          "theme": "primary",
+          "value": "Silo Cluster 18-66/a",
+          "click": "return-val",
+          "text": {
+            "type": "plain-text",
+            "content": "Go"
+          }
+        },
+        "text": {
+          "type": "kmarkdown",
+          "content": "** 18-66/a 水仓群 **"
+        }
+      },
+          {
+        "type": "section",
+        "mode": "right",
+        "accessory": {
+          "type": "button",
+          "theme": "primary",
+          "value": "Ascension Riser 31",
+          "click": "return-val",
+          "text": {
+            "type": "plain-text",
+            "content": "Go"
+          }
+        },
+        "text": {
+          "type": "kmarkdown",
+          "content": "** 31号升降机 **"
+        }
+      },
+                {
+        "type": "section",
+        "mode": "right",
+        "accessory": {
+          "type": "button",
+          "theme": "primary",
+          "value": "Power Matrix",
+          "click": "return-val",
+          "text": {
+            "type": "plain-text",
+            "content": "Go"
+          }
+        },
+        "text": {
+          "type": "kmarkdown",
+          "content": "** 电力矩阵 **"
+        }
+      }
+    ]
+  }
+]

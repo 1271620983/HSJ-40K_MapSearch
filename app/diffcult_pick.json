@@ -1,0 +1,127 @@
+[
+  {
+    "type": "card",
+    "size": "lg",
+    "theme": "warning",
+    "modules": [
+      {
+        "type": "header",
+        "text": {
+          "type": "plain-text",
+          "content": "请选择难度："
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "mode": "right",
+        "accessory": {
+          "type": "button",
+          "theme": "primary",
+          "value": "Sedition",
+          "click": "return-val",
+          "text": {
+            "type": "plain-text",
+            "content": "Go"
+          }
+        },
+        "text": {
+          "type": "kmarkdown",
+          "content": "** 煽动 **"
+        }
+      },
+      {
+        "type": "section",
+        "mode": "right",
+        "accessory": {
+          "type": "button",
+          "theme": "primary",
+          "value": "Uprising",
+          "click": "return-val",
+          "text": {
+            "type": "plain-text",
+            "content": "Go"
+          }
+        },
+        "text": {
+          "type": "kmarkdown",
+          "content": "** 起义 **"
+        }
+      },
+      {
+        "type": "section",
+        "mode": "right",
+        "accessory": {
+          "type": "button",
+          "theme": "primary",
+          "value": "Malice",
+          "click": "return-val",
+          "text": {
+            "type": "plain-text",
+            "content": "Go"
+          }
+        },
+        "text": {
+          "type": "kmarkdown",
+          "content": "** 憎恶 ** "
+        }
+      },
+      {
+        "type": "section",
+        "mode": "right",
+        "accessory": {
+          "type": "button",
+          "theme": "primary",
+          "value": "Heresy",
+          "click": "return-val",
+          "text": {
+            "type": "plain-text",
+            "content": "Go"
+          }
+        },
+        "text": {
+          "type": "kmarkdown",
+          "content": "** 异端 **"
+        }
+      },
+      {
+        "type": "section",
+        "mode": "right",
+        "accessory": {
+          "type": "button",
+          "theme": "primary",
+          "value": "Damnation",
+          "click": "return-val",
+          "text": {
+            "type": "plain-text",
+            "content": "Go"
+          }
+        },
+        "text": {
+          "type": "kmarkdown",
+          "content": "** 诅咒 **"
+        }
+      },
+      {
+        "type": "section",
+        "mode": "right",
+        "accessory": {
+          "type": "button",
+          "theme": "primary",
+          "value": "Gold_Damnation",
+          "click": "return-val",
+          "text": {
+            "type": "plain-text",
+            "content": "Go"
+          }
+        },
+        "text": {
+          "type": "kmarkdown",
+          "content": "** 诅咒(只显示金级) **"
+        }
+      }
+    ]
+  }
+]
