@@ -1,5 +1,5 @@
 {
-    "token": "1/MjY1MDI=/EF0Iw+mmu+5HHkSQhmXFnw==",
+    "token": "",
     "verify_token": "webhook verify token",
     "encrypt_token": "webhook encrypt token",
     "webhook_port": 50000,
